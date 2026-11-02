@@ -1,0 +1,7 @@
+===== Run: 2026-11-02T13:01:00.773444 =====
+===== Run: 2026-11-02T13:01:22.855523 =====
+===== Run: 2026-11-02T13:02:42.588728 =====
+Line 7 | Record: T,104,Bad Credits,8,1000,0 | InvalidCreditsException | Credits must be between 1 and 6: 8
+Line 8 | Record: T,105,Bad Fee,3,-500,0 | InvalidFeeException | Semester fee cannot be negative: -500.0
+Line 9 | Record: L,203,Bad Lab,3,1000,-4,500,0 | InvalidLabHoursException | Lab hours cannot be negative: -4
+Line 10 | Record: T,106,Bad Scholarship,3,2000,120 | InvalidScholarshipPercentException | Scholarship must be between 0 and 100: 120.0

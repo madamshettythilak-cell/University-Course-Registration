@@ -1,0 +1,58 @@
+UNIVERSITY COURSE REGISTRATION SYSTEM
+University: University
+
+------------------------------
+Course ID: 101
+Course Name: Java Programming
+Credits: 3
+Base Semester Fee: 3000.00
+Semester Fee Before Scholarship: 4500.00
+Scholarship: 10.00%
+Semester Fee After Scholarship: 4050.00
+
+------------------------------
+Course ID: 201
+Course Name: Data Structures Lab
+Credits: 4
+Base Semester Fee: 2500.00
+Lab Hours Per Semester: 32
+Equipment Cost: 1500.00
+Semester Fee Before Scholarship: 8000.00
+Scholarship: 15.00%
+Semester Fee After Scholarship: 6800.00
+Weekly Lab Hours: 2.00
+
+------------------------------
+Course ID: 102
+Course Name: Mathematics
+Credits: 5
+Base Semester Fee: 2800.00
+Semester Fee Before Scholarship: 5300.00
+Scholarship: 20.00%
+Semester Fee After Scholarship: 4240.00
+
+------------------------------
+Course ID: 202
+Course Name: Physics Lab
+Credits: 2
+Base Semester Fee: 2000.00
+Lab Hours Per Semester: 24
+Equipment Cost: 1000.00
+Semester Fee Before Scholarship: 6000.00
+Scholarship: 5.00%
+Semester Fee After Scholarship: 5700.00
+Weekly Lab Hours: 1.50
+
+------------------------------
+Course ID: 103
+Course Name: English
+Credits: 1
+Base Semester Fee: 1500.00
+Semester Fee Before Scholarship: 2000.00
+Scholarship: 0.00%
+Semester Fee After Scholarship: 2000.00
+
+Course with more credits (first two): Data Structures Lab
+Course with Maximum Credits: Mathematics
+Course Count: 9
+Records read: 9, accepted: 5, rejected: 4
