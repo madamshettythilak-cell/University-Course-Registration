@@ -1,0 +1,10 @@
+9
+T,101,Java Programming,3,3000,10
+L,201,Data Structures Lab,4,2500,32,1500,15
+T,102,Mathematics,5,2800,20
+L,202,Physics Lab,2,2000,24,1000,5
+T,103,English,1,1500,0
+T,104,Bad Credits,8,1000,0
+T,105,Bad Fee,3,-500,0
+L,203,Bad Lab,3,1000,-4,500,0
+T,106,Bad Scholarship,3,2000,120
